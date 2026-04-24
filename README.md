@@ -33,3 +33,9 @@ The agent will work through each question in `math_questions.md` and print the R
 - `products.json` - product catalog with prices
 - `math_questions.md` - the questions the agent solves
 - `.env.example` - template for your API key
+
+## Walkthrough
+
+Watch the agent in action: [Video Walkthrough](https://youtu.be/FLBYWxJXVOM)
+
+This video demonstrates the agent solving all 8 questions, using the calculator tool for math and the product lookup tool for pricing queries. The ReAct traces show the agent's complete reasoning process.
